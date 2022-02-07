@@ -1,5 +1,5 @@
 # Cybersecurity
-Deliverable 1:
+*Deliverable 1:*
  1. What was your goal for this deliverable, as defined on your Learning Plan?
  2. __My goal for this deliverable was to get a nice start on code hs on the cybersecurity unit.__
  3. Did you meet this goal? If not, why?
