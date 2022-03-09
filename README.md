@@ -15,6 +15,8 @@ println(travelList[2]);
 ```
 *Deliverable 2:*
 
+3/9/22
+
 During deliverable 2 I completed a little bit of my website. My goal for this deliverable is to get the website layout and looks of the website to look amazing. I beleive that I did complete my goal. __My work schedule is that I will be working on my website and alternating between code hs. I am trying to make a good quiz on my website and might need help with it so I might ask how to make a quiz.__ The website should take me sometime to make but I am happy enough to get it started and to learn even more about it. I think alternate from the website and code hs will help me stay ahead. 
 
 My Screen Castify is in class room.
