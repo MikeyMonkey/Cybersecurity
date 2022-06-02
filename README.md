@@ -35,4 +35,32 @@ My Screen Castify is in class room.
 
 <h3 style="text-align: center;"> Cybersecurity and the Internet of Things </h3>
 ```
+
+*Deliverable 4*
+
+Deliverable 4: I worked on my website some more i started to drift away from code hs becuase the deadline of the webite was coming and I dont know how to make a quiz using javascript. SO i deided to add in mor einformation that I can use to my advantage and have more information that people can look for in my website I foundout that aligning all my text made everything look so much better. My goal is to find out a way to have my quiz be included in my project. I foundout that I have completed evrything in seminar and will present my informtation to people when they come see me. I think being persistent with finding a way to get.
+
+```.topnav a {
+  float: left;
+  display: block;
+  color: #0d0d0d;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ffffff;
+  color: blue;
+}
+ ```
+ *Deliverable 5*
+ 
+ I found out a way to put a code into my website. I was so excited when it happened and I was happy to say that I completed my projected just in time. I loved coding this semester and I was happy to find the code from google forms. I completed all opf my goals and heres the code for my quiz.
+ 
+ ```<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfR-lCMYO72mB2QMjT7D78AvDdck_x5ibinJ924cjerV2gk2A/viewform?embedded=true" width="640" height="2407" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>.
+ ```
+ 
+
  
